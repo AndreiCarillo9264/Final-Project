@@ -5,7 +5,7 @@
 
 ## 📌 Description
 
-This is the final project for **Elective1 and MNSTDEV**, designed to showcase the knowledge and skills we learned throughout the course. The project aims to demonstrate practical application of concepts through hands-on development.
+This is the final project for **Elective1 and MNSTDEV**, designed to showcase the knowledge and skills we learned throughout the course.
 
 ---
 
@@ -13,4 +13,5 @@ This is the final project for **Elective1 and MNSTDEV**, designed to showcase th
 
 - 🔹 Carillo, Andrei Christopher
 - 🔹 Nebreja, Brad Josh
+- 🔹 Pasteteo, Rachael Leigh
 - 🔹 Prades, Justine James
