@@ -1,5 +1,5 @@
-# 🎓 Final Project 🎓  
-### *For Elective1 and MNSTDEV*
+<h1 align="center">🎓 Final Project 🎓</b></h1>
+<p align="center"><em>For Elective1 and MNSTDEV</em></p>
 
 ---
 
